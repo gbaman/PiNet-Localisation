@@ -1,16 +1,31 @@
-# Translation of PiNet.
-# This file is distributed under the same license as the PiNet package.
-# Andrew Mulholland <support@pinet.org.uk>, 2014, 2015
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PiNet"
-"Report-Msgid-Bugs-To: http://pinet.org.uk"
-"POT-Creation-Date: 2008-09-01 09:37+0200"
-"PO-Revision-Date: 2008-07-22 18:13+0200"
-"MIME-Version: 1.0"
-"Content-Type: text/plain; charset=UTF-8"
-"Content-Transfer-Encoding: 8bit"
-"Plural-Forms: nplurals=2; plural=n != 1;"
+"Project-Id-Version: PACKAGE VERSION
+"
+"Report-Msgid-Bugs-To: 
+"
+"POT-Creation-Date: 2015-09-03 21:42+0000
+"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE
+"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>
+"
+"Language-Team: LANGUAGE <LL@li.org>
+"
+"Language: 
+"
+"MIME-Version: 1.0
+"
+"Content-Type: text/plain; charset=CHARSET
+"
+"Content-Transfer-Encoding: 8bit
+"
 #: pinet:81
 msgid "NuScratch detected. It fails to work correctly with PiNet at this time, so I will remove it."
 msgstr ""
