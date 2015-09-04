@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PiNet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-04 15:45+0000\n"
-"PO-Revision-Date: 2015-09-03 23:36+0000\n"
+"POT-Creation-Date: 2015-09-04 16:27+0000\n"
+"PO-Revision-Date: 2015-09-04 16:15+0000\n"
 "Last-Translator: PiNet <support@pi-ltsp.net>\n"
 "Language-Team: English (United Kingdom) (http://www.transifex.com/pinet/pinet/language/en_GB/)\n"
 "MIME-Version: 1.0\n"
@@ -18,8 +18,8 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../pinet/Scripts/pinet-functions-python.py:82
-msgid "Error in installing"
-msgstr "Error in installing"
+msgid "Error in installinggggggg"
+msgstr "Error in installinggggggg"
 
 #: ../pinet/Scripts/pinet-functions-python.py:82
 msgid "due to invalid install type."
