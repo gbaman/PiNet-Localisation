@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-04 15:45+0000\n"
+"POT-Creation-Date: 2015-09-04 16:15+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../pinet/Scripts/pinet-functions-python.py:82
-msgid "Error in installing"
+msgid "Error in installinggggggg"
 msgstr ""
 
 #: ../pinet/Scripts/pinet-functions-python.py:82
