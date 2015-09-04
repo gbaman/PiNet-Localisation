@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 #: pinet:81
-msgid "NuuuuuuuuuScratch dddetecteddddd. It fails to work correctly with PiNet at this time, so I will remove it."
+msgid "NuuuuuuuuuScratch dddetecteddddd. IIIIIIt fails to work correctly with PiNet at this time, so I will remove it."
 msgstr ""
 #: pinet:88
 msgid "A required system update has been found. I will now compress the operating system again to apply this update"
