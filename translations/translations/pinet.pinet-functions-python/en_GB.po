@@ -1,0 +1,240 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: PiNet\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-04 16:27+0000\n"
+"PO-Revision-Date: 2015-09-04 16:15+0000\n"
+"Last-Translator: PiNet <support@pi-ltsp.net>\n"
+"Language-Team: English (United Kingdom) (http://www.transifex.com/pinet/pinet/language/en_GB/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_GB\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../pinet/Scripts/pinet-functions-python.py:82
+msgid "Error in installinggggggg"
+msgstr "Error in installinggggggg"
+
+#: ../pinet/Scripts/pinet-functions-python.py:82
+msgid "due to invalid install type."
+msgstr "due to invalid install type."
+
+#: ../pinet/Scripts/pinet-functions-python.py:89
+#: ../pinet/Scripts/pinet-functions-python.py:105
+msgid "Custom package"
+msgstr "Custom package"
+
+#: ../pinet/Scripts/pinet-functions-python.py:89
+msgid ""
+"Enter the name of the name of your package from apt you wish to install."
+msgstr "Enter the name of the name of your package from apt you wish to install."
+
+#: ../pinet/Scripts/pinet-functions-python.py:91
+#: ../pinet/Scripts/pinet-functions-python.py:107
+#: ../pinet/Scripts/pinet-functions-python.py:933
+#: ../pinet/Scripts/pinet-functions-python.py:939
+msgid "Are you sure?"
+msgstr "Are you sure?"
+
+#: ../pinet/Scripts/pinet-functions-python.py:91
+msgid ""
+"Are you sure you want to cancel the installation of a custom apt package?"
+msgstr "Are you sure you want to cancel the installation of a custom apt package?"
+
+#: ../pinet/Scripts/pinet-functions-python.py:105
+msgid ""
+"Enter the name of the name of your python package from pip you wish to "
+"install."
+msgstr "Enter the name of the name of your python package from pip you wish to install."
+
+#: ../pinet/Scripts/pinet-functions-python.py:107
+msgid ""
+"Are you sure you want to cancel the installation of a custom pip package?"
+msgstr "Are you sure you want to cancel the installation of a custom pip package?"
+
+#: ../pinet/Scripts/pinet-functions-python.py:538
+msgid "Installing update"
+msgstr "Installing update"
+
+#: ../pinet/Scripts/pinet-functions-python.py:548
+msgid "Update complete"
+msgstr "Update complete"
+
+#: ../pinet/Scripts/pinet-functions-python.py:555
+msgid "Update failed..."
+msgstr "Update failed..."
+
+#: ../pinet/Scripts/pinet-functions-python.py:576
+msgid "ERROR"
+msgstr "ERROR"
+
+#: ../pinet/Scripts/pinet-functions-python.py:577
+msgid "No release update found!"
+msgstr "No release update found!"
+
+#: ../pinet/Scripts/pinet-functions-python.py:590
+msgid "No Internet Connection"
+msgstr "No Internet Connection"
+
+#: ../pinet/Scripts/pinet-functions-python.py:605
+msgid "Update detected"
+msgstr "Update detected"
+
+#: ../pinet/Scripts/pinet-functions-python.py:605
+msgid ""
+"An update has been detected for PiNet. Select OK to view the Release "
+"History."
+msgstr "An update has been detected for PiNet. Select OK to view the Release History."
+
+#: ../pinet/Scripts/pinet-functions-python.py:608
+msgid "No PiNet software updates found"
+msgstr "No PiNet software updates found"
+
+#: ../pinet/Scripts/pinet-functions-python.py:629
+#: ../pinet/Scripts/pinet-functions-python.py:633
+msgid "No kernel updates found"
+msgstr "No kernel updates found"
+
+#: ../pinet/Scripts/pinet-functions-python.py:694
+msgid "Release history (Use arrow keys to scroll)"
+msgstr "Release history (Use arrow keys to scroll)"
+
+#: ../pinet/Scripts/pinet-functions-python.py:694
+msgid "Install"
+msgstr "Install"
+
+#: ../pinet/Scripts/pinet-functions-python.py:694
+#: ../pinet/Scripts/pinet-functions-python.py:780
+msgid "Cancel"
+msgstr "Cancel"
+
+#: ../pinet/Scripts/pinet-functions-python.py:761
+#: ../pinet/Scripts/pinet-functions-python.py:765
+msgid "Error!"
+msgstr "Error!"
+
+#: ../pinet/Scripts/pinet-functions-python.py:761
+msgid "CSV file invalid!"
+msgstr "CSV file invalid!"
+
+#: ../pinet/Scripts/pinet-functions-python.py:765
+msgid ""
+"CSV file names column (1st column) contains spaces in the usernames! This "
+"isn't supported."
+msgstr "CSV file names column (1st column) contains spaces in the usernames! This isn't supported."
+
+#: ../pinet/Scripts/pinet-functions-python.py:779
+msgid "Username"
+msgstr "Username"
+
+#: ../pinet/Scripts/pinet-functions-python.py:779
+msgid "Password - "
+msgstr "Password - "
+
+#: ../pinet/Scripts/pinet-functions-python.py:780
+msgid "About to import (Use arrow keys to scroll)"
+msgstr "About to import (Use arrow keys to scroll)"
+
+#: ../pinet/Scripts/pinet-functions-python.py:780
+msgid "Import"
+msgstr "Import"
+
+#: ../pinet/Scripts/pinet-functions-python.py:793
+msgid "Complete"
+msgstr "Complete"
+
+#: ../pinet/Scripts/pinet-functions-python.py:793
+msgid "Importing of CSV data has been complete."
+msgstr "Importing of CSV data has been complete."
+
+#: ../pinet/Scripts/pinet-functions-python.py:797
+msgid "Error! CSV file not found at"
+msgstr "Error! CSV file not found at"
+
+#: ../pinet/Scripts/pinet-functions-python.py:906
+msgid "A free office suite, similar to Microsoft office"
+msgstr "A free office suite, similar to Microsoft office"
+
+#: ../pinet/Scripts/pinet-functions-python.py:907
+msgid "Programming environment for Arduino microcontrollers"
+msgstr "Programming environment for Arduino microcontrollers"
+
+#: ../pinet/Scripts/pinet-functions-python.py:908
+msgid "A special version of scratch for GPIO work"
+msgstr "A special version of scratch for GPIO work"
+
+#: ../pinet/Scripts/pinet-functions-python.py:910
+msgid "Python libraries for a number of additional addon boards"
+msgstr "Python libraries for a number of additional addon boards"
+
+#: ../pinet/Scripts/pinet-functions-python.py:911
+msgid "Free and open source classroom management software"
+msgstr "Free and open source classroom management software"
+
+#: ../pinet/Scripts/pinet-functions-python.py:912
+msgid "A Java IDE for developing programs quickly and easily"
+msgstr "A Java IDE for developing programs quickly and easily"
+
+#: ../pinet/Scripts/pinet-functions-python.py:913
+msgid "Allows you to enter the name of a package from Raspbian repository"
+msgstr "Allows you to enter the name of a package from Raspbian repository"
+
+#: ../pinet/Scripts/pinet-functions-python.py:914
+msgid "Allows you to enter the name of a Python library from pip."
+msgstr "Allows you to enter the name of a Python library from pip."
+
+#: ../pinet/Scripts/pinet-functions-python.py:924
+msgid "Additional Software"
+msgstr "Additional Software"
+
+#: ../pinet/Scripts/pinet-functions-python.py:924
+msgid ""
+"In the next window you can select additional software you wish to install. "
+"Use space bar to select applications and hit enter when you are finished."
+msgstr "In the next window you can select additional software you wish to install. Use space bar to select applications and hit enter when you are finished."
+
+#: ../pinet/Scripts/pinet-functions-python.py:925
+msgid "Extra Software Submenu"
+msgstr "Extra Software Submenu"
+
+#: ../pinet/Scripts/pinet-functions-python.py:925
+msgid ""
+"Select any software you want to install. Use space bar to select then enter "
+"to continue."
+msgstr "Select any software you want to install. Use space bar to select then enter to continue."
+
+#: ../pinet/Scripts/pinet-functions-python.py:933
+msgid "Are you sure you don't want to install any additional software?"
+msgstr "Are you sure you don't want to install any additional software?"
+
+#: ../pinet/Scripts/pinet-functions-python.py:939
+msgid "Are you sure you want to install this software?"
+msgstr "Are you sure you want to install this software?"
+
+#: ../pinet/Scripts/pinet-functions-python.py:961
+msgid "Installing"
+msgstr "Installing"
+
+#: ../pinet/Scripts/pinet-functions-python.py:984
+msgid "Compressing the image, this will take roughly 5 minutes"
+msgstr "Compressing the image, this will take roughly 5 minutes"
+
+#: ../pinet/Scripts/pinet-functions-python.py:989
+msgid "WARNING"
+msgstr "WARNING"
+
+#: ../pinet/Scripts/pinet-functions-python.py:989
+msgid ""
+"Auto NBD compressing is disabled, for your changes to push to the Raspberry "
+"Pis, run NBD-recompress from main menu."
+msgstr "Auto NBD compressing is disabled, for your changes to push to the Raspberry Pis, run NBD-recompress from main menu."
+
+#: ../pinet/Scripts/pinet-functions-python.py:996
+msgid "This python script does nothing on its own, it must be passed stuff"
+msgstr "This python script does nothing on its own, it must be passed stuff"
